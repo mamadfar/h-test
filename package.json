@@ -1,0 +1,13 @@
+{
+  "name": "hami",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "watch": "node-sass --watch --output-style compressed -o assets/css/ assets/css/scss/ --recursive"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {}
+}

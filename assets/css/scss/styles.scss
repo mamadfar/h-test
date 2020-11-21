@@ -1,0 +1,14 @@
+
+html, body {
+  font-size: 16px;
+  direction: rtl;
+  font-family: iransans;
+}
+
+@import "fonts";
+@import "base";
+@import "header";
+@import "blogPage";
+@import "footer";
+@import "mediaQuery";
+
